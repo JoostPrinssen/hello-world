@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# hello-test
+Dit is een repository om te oefenen
